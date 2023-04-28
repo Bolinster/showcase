@@ -7,7 +7,7 @@ body {
 
 /* Hero section styles */
 #hero {
-    background-image: url('https://lh3.googleusercontent.com/JFDbgW8_3JSEgrR5an70EvLP8aOchtZhNdFvOOpnGGBOdlj62DfdK68mi2spdRJ4np6JrKC5KXdGwXcEo36bI4pk9Fh6UZSB_Pb4wNwdvwG1kCwCImTT6icHAB6NO1eHruDere7SjjO-4Mcac7H8cJ6gc-tnpysRDqODqag3wc_MGVxER1KJW6yyAjZrvuRSa2nUZOAdVn-FUWGmjI_phqo7sXiHMtdpcZroUNvw3la-Mh0rsqicnvs9T2FpzakwBCJClQ6DozChUGkzcjIx-ilkKlVoY4fS5rUd8GsCHZXPz9UP_Cq-GUGRpCX0fvaXhOjR5Cus5RT9ohlTZa4xlB6AVUZm8alscHvEU4qIbq1N-UzbCuuON1P7QQBnJVjDDuFL3xFM4HIYzBy9nDKNbotsZKGvEfmNy4o0GLhvlz6CYwWm96ug0ZKDOhbUbZ5z7-eXVQRf6f-ggagHZz1j7AcoaLT5DoLeqdnoSkKF6_7SrUaymmZlv4wj7_6BPeTR09-_mQV63eDDKIHJiRMJDV1PRcZvg1aAXYkoAv5raD3goTAKdJsYBZSiQHhTE9m9hw9mQa1FSgeix6AFyDyhai7sISv1mbZsTdHZDtu3FQe8jUzVK1qPh7D6T40_OdDdREM5CThbtlmn1UH8Vtxnflrv41hzrQHj3fkep4hOp1JdvkSWzQwlTVS0s2VIVJ4Jr0OebqhW9oG7B0s9mjJ7d7F5jBe1qmPYeVvtcS_a5sBVsOo9_QDv3i6vhrytKY0GXjz5AMhV1wcWwbDZNG7PL6p9ktVbFou3WlYnbguWX_pZxCnfBAP70DYwQZX8wuxCscoxfuEGd6k5cUXhPbE3LAQ8UpyKX9OdwT6mwRGCd0c7zgcYr1za6X8kQjevoXPrV41t_8aycA7wU2ki0jZVueeZus6E_ZB4lm0sp6LK02z27e3F=w1666-h937-no?authuser=0');
+    background-image: url('https://f.shgcdn.com/8dadad5b-2b49-44e2-92af-67ccd0f9ba9c/-/preview/-/inline/no/Topographical-MacBook.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -17,7 +17,7 @@ body {
 }
 
 .hero-text {
-    color: #000;
+    color: #fff;
     text-align: center;
     width: 100%;
 }
@@ -25,10 +25,6 @@ body {
 .hero-text h1 {
     font-size: 9rem;
     margin: 0;
-}
-
-.hero-text p {
-    font-size: 1.5rem;
 }
 
 /* Skills section styles */
